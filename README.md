@@ -13,6 +13,8 @@ presentation.md - детальное описание проекта, текст
 
 presentation.pptx - Презентация для выступления на кафедре
 
+Razvertka_multimage-MIN.ipynb - Приложение для генерации ортографической проекции
+
 IndorImageStitcher.ipynb - Прототип финального алгоритма на Python
 
 TODO: залить DLL
